@@ -1,0 +1,934 @@
+.vector-icon12 {
+  position: absolute;
+  height: 100.11%;
+  width: 100.17%;
+  top: -0.05%;
+  right: -0.08%;
+  bottom: -0.05%;
+  left: -0.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-19-icon3 {
+  position: relative;
+  width: 387px;
+  height: 51px;
+  z-index: 0;
+}
+.fasilitas5 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 20.5px);
+  left: calc(50% - 61.5px);
+  display: inline-block;
+  z-index: 1;
+}
+.vector-19-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 30px;
+  color: #fff;
+}
+.vector-37-icon {
+  position: relative;
+  width: 222px;
+  height: 222px;
+  object-fit: cover;
+}
+.vector-36-icon {
+  position: relative;
+  width: 289px;
+  height: 250px;
+  z-index: 0;
+}
+.definisi-laboratorium-komputas {
+  margin: 0;
+}
+.definisi-laboratorium-komputas-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 52px;
+  left: calc(50% - 120.5px);
+  display: inline-block;
+  width: 240px;
+  height: 163px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.laboriturium-dan-kelas {
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: calc(50% - 88.5px);
+  font-size: 15px;
+  display: inline-block;
+  z-index: 2;
+}
+.baca-selengkapnya7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #262626;
+  text-align: left;
+  display: inline-block;
+}
+.baca-selengkapnya7:hover {
+  color: #a0a0a0;
+}
+.frame-child5,
+.lihat-detail7 {
+  position: relative;
+  width: 226px;
+  height: 20px;
+}
+.frame-child5 {
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 150.1px;
+  height: 1px;
+}
+.lihat-detail-parent2 {
+  margin: 0 !important;
+  position: absolute;
+  top: 215px;
+  left: 25px;
+  width: 172px;
+  align-items: flex-start;
+  gap: 1px;
+  z-index: 3;
+}
+.lihat-detail-parent2,
+.vector-36-parent,
+.vector-37-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.vector-36-parent {
+  box-shadow: 0 0 10px rgba(165, 165, 165, 0.75);
+  align-items: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.vector-37-parent {
+  align-items: center;
+  gap: 21px;
+}
+.institut-teknologi-del-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 57px;
+  left: calc(50% - 119.5px);
+  display: inline-block;
+  width: 240px;
+  height: 163px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.akomodasi {
+  top: 11px;
+  left: calc(50% - 41.5px);
+  font-size: 15px;
+  z-index: 2;
+}
+.akomodasi,
+.institut-teknologi-del-container1,
+.kantin {
+  position: absolute;
+  margin: 0 !important;
+  display: inline-block;
+}
+.institut-teknologi-del-container1 {
+  top: 52px;
+  left: calc(50% - 119.5px);
+  width: 240px;
+  height: 163px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.kantin {
+  top: 11px;
+  left: calc(50% - 24.5px);
+  font-size: 15px;
+  z-index: 2;
+}
+.frame-container {
+  position: absolute;
+  top: 95px;
+  left: calc(50% - 561.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 128px;
+}
+.baca-selengkapnya10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #262626;
+  text-align: left;
+  display: inline-block;
+}
+.baca-selengkapnya10:hover {
+  color: rgba(0, 0, 170, 0.5);
+}
+.vector-36-parent1,
+.vector-37-parent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.vector-36-parent1 {
+  align-items: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.vector-37-parent1 {
+  align-items: center;
+  gap: 21px;
+  font-size: 13px;
+}
+.akomodasi1 {
+  top: 11px;
+  left: calc(50% - 41.5px);
+  z-index: 1;
+}
+.akomodasi1,
+.institut-teknologi-del-container2,
+.kantin1 {
+  position: absolute;
+  margin: 0 !important;
+  display: inline-block;
+}
+.institut-teknologi-del-container2 {
+  top: 57px;
+  left: calc(50% - 119.5px);
+  font-size: 13px;
+  width: 240px;
+  height: 163px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.kantin1 {
+  top: 11px;
+  left: calc(50% - 24.5px);
+  z-index: 1;
+}
+.frame-parent1,
+.lihat-detail-parent7 {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+}
+.lihat-detail-parent7 {
+  margin: 0 !important;
+  top: 215px;
+  left: 25px;
+  width: 172px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  z-index: 2;
+}
+.frame-parent1 {
+  top: 95px;
+  left: calc(50% - 561.5px);
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 128px;
+  font-size: 15px;
+}
+.screenshot-154-1 {
+  position: relative;
+  border-radius: 30px;
+  width: 478.4px;
+  height: 222px;
+  object-fit: cover;
+}
+.hiburan-dan-olahraga,
+.perpustakaan {
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: calc(50% - 52.2px);
+  font-size: 15px;
+  display: inline-block;
+  z-index: 2;
+}
+.hiburan-dan-olahraga {
+  top: 14px;
+  left: calc(50% - 83.5px);
+}
+.frame-parent2 {
+  position: absolute;
+  top: 718px;
+  left: 115px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 185px;
+}
+.baca-selengkapnya15,
+.klinik {
+  position: absolute;
+  display: inline-block;
+}
+.klinik {
+  margin: 0 !important;
+  top: 14px;
+  left: calc(50% - 21.5px);
+  font-size: 15px;
+  z-index: 2;
+}
+.baca-selengkapnya15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #262626;
+  text-align: left;
+}
+.baca-selengkapnya15:hover {
+  color: #00a;
+}
+.content-1-inner {
+  position: absolute;
+  top: 1341px;
+  left: 158px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.screenshot-2023-12-05-211203-1 {
+  position: relative;
+  border-radius: 30px;
+  width: 503.2px;
+  height: 222px;
+  object-fit: cover;
+}
+.ruang-terbuka {
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: calc(50% - 57.2px);
+  font-size: 15px;
+  display: inline-block;
+  z-index: 2;
+}
+.screenshot-2023-12-05-211203-1-parent {
+  position: absolute;
+  top: 1341px;
+  left: 661px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 21px;
+}
+.content-1 {
+  position: absolute;
+  height: 57.16%;
+  width: 88.05%;
+  top: 22.13%;
+  right: 5.13%;
+  bottom: 20.71%;
+  left: 6.82%;
+}
+.screenshot-2023-12-05-091512-11 {
+  position: absolute;
+  top: -66px;
+  left: 0;
+  width: 1490px;
+  height: 737px;
+  object-fit: cover;
+}
+.vector-11-icon2 {
+  position: relative;
+  width: 11.5px;
+  height: 12.9px;
+}
+.vector2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 507px;
+  left: calc(50% - 32px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.screenshot-2023-12-05-091512-1-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1356px;
+  height: 544.2px;
+}
+.vector-icon13 {
+  position: relative;
+  width: 30px;
+  height: 67px;
+}
+.corassel-kanan2,
+.corassel-kiri2 {
+  cursor: pointer;
+  border: 0;
+  padding: 10px;
+  background-color: transparent;
+  position: absolute;
+  top: 228px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.corassel-kanan2 {
+  left: 1298.3px;
+}
+.corassel1 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 1356px;
+  height: 544.2px;
+}
+.logo-1-icon2 {
+  position: relative;
+  width: 87.3px;
+  height: 96px;
+  object-fit: cover;
+}
+.institut-teknologi-del8 {
+  font-weight: 600;
+}
+.martuhan-marroha-marbisuk2 {
+  margin: 0;
+  font-size: 15px;
+}
+.institut-teknologi-del-martuha-container2 {
+  position: relative;
+  display: inline-block;
+  width: 311.3px;
+  flex-shrink: 0;
+}
+.logo2 {
+  width: 387px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.home2,
+.vector-icon15 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+}
+.home2 {
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  display: inline-block;
+  width: 63px;
+  height: 23px;
+  flex-shrink: 0;
+}
+.home2:hover,
+.lembaga7:hover,
+.pengumuman-berita2:hover,
+.program-pendidikan5:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+.komunitas5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icon-news2 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.pengumuman-berita2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: 20px;
+  line-height: 115.47%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 150px;
+  height: 46px;
+  flex-shrink: 0;
+}
+.icon-news-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  cursor: pointer;
+}
+.icon-university1,
+.lembaga7 {
+  position: relative;
+  width: 26.8px;
+  height: 25px;
+}
+.lembaga7 {
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 96px;
+  height: 23px;
+  flex-shrink: 0;
+}
+.vector-icon16 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+}
+.program-pendidikan5 {
+  position: relative;
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 116.2px;
+  height: 46px;
+  flex-shrink: 0;
+}
+.program-pendidikan4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 151px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.maintenance-1-12 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.komunitas7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 65px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.komunitas-frame {
+  position: relative;
+  border-radius: 10px;
+  background-color: rgba(0, 121, 192, 0.5);
+  box-shadow: 5px 5px 13px rgba(0, 0, 0, 0.5);
+  width: 151px;
+  height: 39px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logo-container,
+.navbar2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar2 {
+  margin: 0;
+  width: 808px;
+  gap: 25px;
+}
+.logo-container {
+  position: absolute;
+  top: 82px;
+  left: 32px;
+  gap: 87px;
+  font-size: 25px;
+}
+.header-inner {
+  position: relative;
+  background-color: #036;
+  width: 1364px;
+  height: 66px;
+  z-index: 0;
+}
+.search5 {
+  border: 0;
+  font-family: "Open Sans";
+  font-size: 20px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.vector-2-icon3 {
+  position: relative;
+  width: 49.8px;
+  height: 35px;
+  z-index: 0;
+}
+.vector-4-icon2 {
+  top: 19.8px;
+  left: 27.2px;
+  width: 11.1px;
+  height: 12.2px;
+  z-index: 1;
+}
+.frame2,
+.search4,
+.vector-4-icon2,
+.vector-5-icon2 {
+  margin: 0 !important;
+  position: absolute;
+}
+.vector-5-icon2 {
+  height: 68%;
+  width: 42.77%;
+  top: 5.71%;
+  right: 34.34%;
+  bottom: 26.29%;
+  left: 22.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.frame2,
+.search4 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 1;
+}
+.frame2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 216px;
+  align-items: center;
+  justify-content: center;
+}
+.search4 {
+  top: 13px;
+  left: 1036px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-copy2 {
+  position: relative;
+  width: 31.2px;
+  height: 32px;
+  z-index: 0;
+}
+.facebook-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  height: 62.5%;
+  width: 28.85%;
+  top: 18.75%;
+  right: 34.94%;
+  bottom: 18.75%;
+  left: 36.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.facebook2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: 10px;
+}
+.g-icon2,
+.twitter-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  height: 48.13%;
+  width: 58.01%;
+  top: 25%;
+  right: 20.51%;
+  bottom: 26.88%;
+  left: 21.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.g-icon2 {
+  height: 62.81%;
+  width: 62.18%;
+  top: 18.75%;
+  right: 13.46%;
+  bottom: 18.44%;
+  left: 24.36%;
+}
+.header2,
+.share2 {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.share2 {
+  margin: 0 !important;
+  top: calc(50% - 23px);
+  left: calc(50% - 651.4px);
+  flex-direction: row;
+  gap: 14px;
+  z-index: 2;
+}
+.header2 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  gap: 10px;
+}
+.footer-child5,
+.footer-child6,
+.vector-icon17 {
+  position: absolute;
+  top: -1.1px;
+  left: 0;
+  width: 1364px;
+  height: 582.1px;
+}
+.footer-child5,
+.footer-child6 {
+  top: 520px;
+  background-color: #036;
+  height: 63px;
+}
+.footer-child6 {
+  top: -0.1px;
+  background-color: #47146c;
+  height: 520px;
+}
+.menu-lainnya4 {
+  position: absolute;
+  top: 33.9px;
+  left: 410.3px;
+  font-size: 23px;
+  line-height: 115.5%;
+  display: inline-block;
+  width: 183.3px;
+  height: 39px;
+}
+.akses-cepat2,
+.komunitas8,
+.program-pelatihan2,
+.sivitas2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 150px;
+  height: 31px;
+  flex-shrink: 0;
+}
+.akses-cepat2:hover,
+.komunitas8:hover,
+.program-pelatihan2:hover,
+.sivitas2:hover {
+  color: #0079c0;
+}
+.akses-cepat2,
+.komunitas8,
+.program-pelatihan2 {
+  width: 177px;
+}
+.akses-cepat2,
+.program-pelatihan2 {
+  width: 172px;
+}
+.program-pelatihan2 {
+  width: 240px;
+}
+.menu-lainnya5 {
+  position: absolute;
+  top: 86.9px;
+  left: 410.3px;
+  width: 255.8px;
+  height: 367px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.footer-child7,
+.footer-child8 {
+  position: absolute;
+  top: 26.1px;
+  left: 337.4px;
+  width: 1px;
+  height: 490.2px;
+}
+.footer-child8 {
+  top: 29.5px;
+  left: 831.4px;
+}
+.ban-pt-1-icon2 {
+  position: relative;
+  width: 207px;
+  height: 173px;
+  object-fit: cover;
+}
+.enter-icon2 {
+  position: relative;
+  width: 119.1px;
+  height: 101.5px;
+}
+.foto-footer2 {
+  position: absolute;
+  top: 55.9px;
+  left: 67.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.image-1-icon2 {
+  position: relative;
+  width: 335.6px;
+  height: 263.5px;
+  object-fit: cover;
+}
+.institut-teknologi-deljl2 {
+  position: relative;
+  line-height: 130.5%;
+  display: inline-block;
+  width: 344.1px;
+  height: 206.9px;
+  flex-shrink: 0;
+}
+.maps-adress2 {
+  position: absolute;
+  top: 29px;
+  left: 945px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.copyright-sdi-it-del2 {
+  position: absolute;
+  top: 539.9px;
+  left: 386.8px;
+  display: inline-block;
+  width: 591.4px;
+  height: 22px;
+}
+.fasilitas4,
+.footer2 {
+  text-align: left;
+  font-family: "Open Sans";
+}
+.footer2 {
+  position: absolute;
+  top: 2717px;
+  left: 0;
+  width: 1364px;
+  height: 581px;
+  font-size: 17px;
+  color: #fff;
+}
+.fasilitas4 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3298px;
+  overflow: hidden;
+  font-size: 13px;
+  color: #000;
+}

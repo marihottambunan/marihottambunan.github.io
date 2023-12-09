@@ -1,0 +1,857 @@
+@keyframes shadow-drop-bottom {
+  0% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: 0 12px 20px -12px rgb(0 0 0/35%);
+  }
+}
+.vector-icon18 {
+  position: absolute;
+  height: 100.36%;
+  top: -0.18%;
+  bottom: -0.18%;
+  left: calc(50% - 562.5px);
+  max-height: 100%;
+  width: 1125px;
+}
+.vector-19-icon4 {
+  position: relative;
+  width: 387px;
+  height: 51px;
+  z-index: 0;
+}
+.program-pendidikan7 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 21.3px);
+  left: calc(50% - 162.5px);
+  display: inline-block;
+  z-index: 1;
+}
+.vector-19-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 54.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 527px);
+  border-radius: 16px;
+  background-color: #f5f5f5;
+  width: 1054px;
+  height: 405.5px;
+}
+.di-awal-berdi {
+  margin: 0;
+}
+.institut-teknologi-del-container3 {
+  position: absolute;
+  top: 28.8px;
+  left: calc(50% - 481px);
+  display: inline-block;
+  width: 963px;
+  height: 347.7px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 106px;
+  left: calc(50% - 526.5px);
+  box-shadow: 20px 20px 30px rgba(165, 165, 165, 0.75);
+  width: 1054px;
+  height: 405.5px;
+  font-size: 20px;
+  color: #000;
+}
+.content1,
+.vector-icon19 {
+  position: absolute;
+  height: 19.35%;
+  top: 27.33%;
+  bottom: 53.32%;
+  left: calc(50% - 562px);
+  width: 1123px;
+}
+.vector-icon19 {
+  height: 100.25%;
+  top: -0.12%;
+  bottom: -0.12%;
+  left: calc(50% - 562.5px);
+  border-radius: 40px;
+  max-height: 100%;
+  width: 1125px;
+}
+.vector-15-icon {
+  position: relative;
+  border-radius: 20px;
+  width: 454.9px;
+  height: 55.7px;
+  z-index: 0;
+}
+.fakultas1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 6.6px;
+  left: 146.5px;
+  display: inline-block;
+  width: 188.8px;
+  height: 40.9px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vector-15-parent {
+  position: absolute;
+  top: 34.4px;
+  left: 668.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.o2a1095-1024x683-2-icon,
+.vector-16-icon {
+  position: absolute;
+  height: 99.5%;
+  width: 94.47%;
+  top: 0.5%;
+  right: 1.12%;
+  bottom: 0;
+  left: 4.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.o2a1095-1024x683-2-icon {
+  height: 99.99%;
+  width: 214.81%;
+  top: 0;
+  right: -114.81%;
+  bottom: 0.01%;
+  left: 0;
+  object-fit: cover;
+}
+.vector-16-parent {
+  position: absolute;
+  top: calc(50% - 373px);
+  left: 14px;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(165, 165, 165, 0.75);
+  width: 474px;
+  height: 684px;
+  overflow: hidden;
+}
+.screenshot-151-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 261px;
+  height: 169.4px;
+  object-fit: cover;
+}
+.screenshot-151-1-wrapper {
+  position: relative;
+  border-radius: 100px;
+  box-shadow: 0 0 10px rgba(165, 165, 165, 0.75);
+  width: 167px;
+  height: 162px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vector-12-icon {
+  position: relative;
+  width: 216px;
+  height: 121px;
+  z-index: 0;
+}
+.d3-teknik-informatika-container,
+.vokasi {
+  position: absolute;
+  margin: 0 !important;
+  display: inline-block;
+}
+.d3-teknik-informatika-container {
+  top: 39px;
+  left: calc(50% - 89px);
+  width: 179px;
+  height: 71px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.vokasi {
+  top: 8px;
+  left: calc(50% - 33px);
+  font-size: 20px;
+  z-index: 2;
+}
+.fakultas2,
+.vector-12-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.vector-12-parent {
+  box-shadow: 0 0 10px rgba(165, 165, 165, 0.75);
+  align-items: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.fakultas2 {
+  align-items: center;
+  gap: 12px;
+}
+.fakultas2:hover {
+  cursor: pointer;
+  animation: 1s step-start 0s infinite normal none shadow-drop-bottom;
+  opacity: 1;
+}
+.screenshot-153-1,
+.screenshot-2023-12-05-090135-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 316px;
+  height: 162px;
+  object-fit: cover;
+}
+.screenshot-2023-12-05-090135-1 {
+  left: 0.5px;
+  width: 203px;
+  height: 195px;
+}
+.bioteknologi,
+.s1teknik-bioproses {
+  position: absolute;
+  margin: 0 !important;
+  display: inline-block;
+}
+.s1teknik-bioproses {
+  top: 39px;
+  left: calc(50% - 72px);
+  width: 144px;
+  height: 20px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.bioteknologi {
+  top: 8px;
+  left: calc(50% - 65px);
+  font-size: 20px;
+  z-index: 2;
+}
+.screenshot-2023-12-05-090413-1 {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  width: 575px;
+  height: 474px;
+  object-fit: cover;
+}
+.s1-manajemen-rekayasa-container,
+.teknologi-industri {
+  position: absolute;
+  margin: 0 !important;
+  left: calc(50% - 91px);
+  display: inline-block;
+}
+.s1-manajemen-rekayasa-container {
+  top: 39px;
+  width: 182px;
+  height: 52px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.teknologi-industri {
+  top: 8px;
+  font-size: 20px;
+  z-index: 2;
+}
+.fakultas-parent {
+  position: absolute;
+  top: 119px;
+  left: 562px;
+  width: 493px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 61px;
+  font-size: 15px;
+  color: #000;
+}
+.content-2 {
+  position: absolute;
+  height: 28.59%;
+  top: 50.19%;
+  bottom: 21.22%;
+  left: calc(50% - 562px);
+  width: 1123px;
+}
+.screenshot-152-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1364px;
+  height: 544px;
+  object-fit: cover;
+}
+.vector-11-icon3 {
+  position: relative;
+  width: 11.5px;
+  height: 12.9px;
+}
+.vector3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 507px;
+  left: calc(50% - 32px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.screenshot-152-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1364px;
+  height: 544.2px;
+}
+.vector-icon20 {
+  position: relative;
+  width: 30px;
+  height: 67px;
+}
+.corassel-kanan3,
+.corassel-kiri3 {
+  cursor: pointer;
+  border: 0;
+  padding: 10px;
+  background-color: transparent;
+  position: absolute;
+  top: 228px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.corassel-kanan3 {
+  left: 1305.9px;
+}
+.corassel2 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 1364px;
+  height: 544.2px;
+}
+.logo-1-icon3 {
+  position: relative;
+  width: 87.3px;
+  height: 96px;
+  object-fit: cover;
+}
+.institut-teknologi-del11 {
+  font-weight: 600;
+}
+.martuhan-marroha-marbisuk3 {
+  margin: 0;
+  font-size: 15px;
+}
+.institut-teknologi-del-martuha-container3 {
+  position: relative;
+  display: inline-block;
+  width: 311.3px;
+  flex-shrink: 0;
+}
+.logo3 {
+  width: 387px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.home3,
+.vector-icon22 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+}
+.home3 {
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  display: inline-block;
+  width: 63px;
+  height: 23px;
+  flex-shrink: 0;
+}
+.fasilitas8:hover,
+.home3:hover,
+.lembaga10:hover,
+.pengumuman-berita3:hover,
+.program-pendidikan8:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+.komunitas9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icon-news3 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.pengumuman-berita3 {
+  position: relative;
+  font-size: 20px;
+  line-height: 115.47%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 145px;
+  height: 50px;
+  flex-shrink: 0;
+}
+.icon-university2,
+.lembaga10 {
+  position: relative;
+  width: 26.8px;
+  height: 25px;
+}
+.lembaga10 {
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 115px;
+  height: 23px;
+  flex-shrink: 0;
+}
+.vector-icon23 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+}
+.program-pendidikan8 {
+  position: relative;
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 121px;
+  height: 50px;
+  flex-shrink: 0;
+}
+.komunitas11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 76.5px);
+  width: 156px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.komunitas-wrapper1 {
+  position: relative;
+  border-radius: 10px;
+  background-color: rgba(7, 86, 133, 0.5);
+  box-shadow: 5px 5px 13px rgba(0, 0, 0, 0.5);
+  width: 165px;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.maintenance-1-13 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.fasilitas8 {
+  position: relative;
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 800;
+  font-family: "Open Sans";
+  color: rgba(255, 255, 255, 0.75);
+  text-align: left;
+  display: inline-block;
+  width: 87px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.navbar3,
+.navbar4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar4 {
+  margin: 0;
+  width: 833px;
+  gap: 25px;
+}
+.navbar3 {
+  position: absolute;
+  top: 82px;
+  left: 27px;
+  gap: 82px;
+  font-size: 25px;
+  color: #000;
+}
+.header-child1 {
+  position: relative;
+  background-color: #036;
+  width: 1364px;
+  height: 66px;
+  z-index: 0;
+}
+.search7 {
+  border: 0;
+  font-family: "Open Sans";
+  font-size: 20px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.vector-2-icon4 {
+  position: relative;
+  width: 49.8px;
+  height: 35px;
+  z-index: 0;
+}
+.vector-4-icon3 {
+  top: 19.8px;
+  left: 27.2px;
+  width: 11.1px;
+  height: 12.2px;
+  z-index: 1;
+}
+.frame3,
+.search6,
+.vector-4-icon3,
+.vector-5-icon3 {
+  margin: 0 !important;
+  position: absolute;
+}
+.vector-5-icon3 {
+  height: 68%;
+  width: 42.77%;
+  top: 5.71%;
+  right: 34.34%;
+  bottom: 26.29%;
+  left: 22.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.frame3,
+.search6 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 1;
+}
+.frame3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 216px;
+  align-items: center;
+  justify-content: center;
+}
+.search6 {
+  top: 13px;
+  left: 1036px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-copy3 {
+  position: relative;
+  width: 31.2px;
+  height: 32px;
+  z-index: 0;
+}
+.facebook-icon3 {
+  position: absolute;
+  margin: 0 !important;
+  height: 62.5%;
+  width: 28.85%;
+  top: 18.75%;
+  right: 34.94%;
+  bottom: 18.75%;
+  left: 36.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.facebook3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: 10px;
+}
+.g-icon3,
+.twitter-icon3 {
+  position: absolute;
+  margin: 0 !important;
+  height: 48.13%;
+  width: 58.01%;
+  top: 25%;
+  right: 20.51%;
+  bottom: 26.88%;
+  left: 21.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.g-icon3 {
+  height: 62.81%;
+  width: 62.18%;
+  top: 18.75%;
+  right: 13.46%;
+  bottom: 18.44%;
+  left: 24.36%;
+}
+.header3,
+.share3 {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.share3 {
+  margin: 0 !important;
+  top: calc(50% - 23px);
+  left: calc(50% - 651.4px);
+  flex-direction: row;
+  gap: 14px;
+  z-index: 2;
+}
+.header3 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  gap: 10px;
+}
+.footer-child10,
+.footer-child9,
+.vector-icon24 {
+  position: absolute;
+  top: -1.1px;
+  left: 0;
+  width: 1364px;
+  height: 582.1px;
+}
+.footer-child10,
+.footer-child9 {
+  top: 520px;
+  background-color: #036;
+  height: 63px;
+}
+.footer-child10 {
+  top: -0.1px;
+  background-color: #47146c;
+  height: 520px;
+}
+.menu-lainnya6 {
+  position: absolute;
+  top: 33.9px;
+  left: 410.3px;
+  font-size: 23px;
+  line-height: 115.5%;
+  display: inline-block;
+  width: 183.3px;
+  height: 39px;
+}
+.akses-cepat3,
+.komunitas12,
+.program-pelatihan3,
+.sivitas3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: 20px;
+  line-height: 115.5%;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 150px;
+  height: 31px;
+  flex-shrink: 0;
+}
+.akses-cepat3:hover,
+.komunitas12:hover,
+.program-pelatihan3:hover,
+.sivitas3:hover {
+  color: #0079c0;
+}
+.akses-cepat3,
+.komunitas12,
+.program-pelatihan3 {
+  width: 177px;
+}
+.akses-cepat3,
+.program-pelatihan3 {
+  width: 172px;
+}
+.program-pelatihan3 {
+  width: 240px;
+}
+.menu-lainnya7 {
+  position: absolute;
+  top: 86.9px;
+  left: 410.3px;
+  width: 255.8px;
+  height: 367px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.footer-child11,
+.footer-child12 {
+  position: absolute;
+  top: 26.1px;
+  left: 337.4px;
+  width: 1px;
+  height: 490.2px;
+}
+.footer-child12 {
+  top: 29.5px;
+  left: 831.4px;
+}
+.ban-pt-1-icon3 {
+  position: relative;
+  width: 207px;
+  height: 173px;
+  object-fit: cover;
+}
+.enter-icon3 {
+  position: relative;
+  width: 119.1px;
+  height: 101.5px;
+}
+.foto-footer3 {
+  position: absolute;
+  top: 55.9px;
+  left: 67.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.image-1-icon3 {
+  position: relative;
+  width: 335.6px;
+  height: 263.5px;
+  object-fit: cover;
+}
+.institut-teknologi-deljl3 {
+  position: relative;
+  line-height: 130.5%;
+  display: inline-block;
+  width: 344.1px;
+  height: 206.9px;
+  flex-shrink: 0;
+}
+.maps-adress3 {
+  position: absolute;
+  top: 29px;
+  left: 945px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.copyright-sdi-it-del3 {
+  position: absolute;
+  top: 539.9px;
+  left: 386.8px;
+  display: inline-block;
+  width: 591.4px;
+  height: 22px;
+}
+.footer3,
+.program-pendidikan6 {
+  text-align: left;
+  color: #fff;
+  font-family: "Open Sans";
+}
+.footer3 {
+  position: absolute;
+  top: 2266px;
+  left: 0;
+  width: 1364px;
+  height: 581px;
+  font-size: 17px;
+}
+.program-pendidikan6 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2847px;
+  overflow: hidden;
+  font-size: 30px;
+}
